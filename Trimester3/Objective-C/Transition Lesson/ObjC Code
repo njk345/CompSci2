@@ -1,0 +1,43 @@
+//CODE for UIALERTVIEW in MYLAYOUT FUNCTION
+//*****************************************
+
+alert = [[UIAlertView alloc] initWithTitle:myString message:@"Hi" delegate:self cancelButtonTitle:@"Done" otherButtonTitles:nil, nil];
+
+[alert show];
+
+
+//CODE for UISWITCH
+ 
+//in VIEWDIDLOAD FUNCTION
+//*****************************************
+
+
+[mySwitch addTarget:self action:@selector(switchChange:) forControlEvents:UIControlEventValueChanged];
+
+
+//as a NEW FUNCTION
+//*****************************************
+
+- (void) switchChange: (id) sender {
+    if ([sender isOn]){
+        myLabel.hidden = 0; //0 or NO or FALSE can be interchangeable used - case sensitive
+    }
+    else {
+        myLabel.hidden = 1;
+    }
+}
+
+// in MYLAYOUT FUNCTION
+//*****************************************
+
+[mySwitch setOn:NO animated:YES];
+
+
+
+// CODE for UIIMAGE & UIIMAGEVIEW
+
+//in VIEWDIDLOAD FUNCTION
+//*****************************************
+
+myImage = [UIImage imageNamed:@"minion.png"];
+myImageView.image = myImage;

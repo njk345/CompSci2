@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ runProgram()
+comment1.params=endOrNot
+comment1.target=void\ drawTread(boolean)
+comment2.params=endOrNot
+comment2.target=void\ drawRiser(boolean)
+comment3.params=
+comment3.target=void\ drawIndent()
+comment4.params=
+comment4.target=void\ draw3Steps()
+comment5.params=steps
+comment5.target=void\ drawNSteps(int)
+comment6.params=steps\ level
+comment6.target=void\ recursiveStairs(int,\ int)
+numComments=7

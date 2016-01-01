@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ init()
+comment0.text=\n\ Initialize\ all\ -\ instance\ fields\n\ defined\ as\ private\ in\ the\ section\ above.\n\ \n\ Add\ additional\ GObjects\ that\ the\ player\ does\n\ not\ interact\ with\ as\ local\ variables\ here.\n
+comment1.params=e
+comment1.target=void\ mousePressed(java.awt.event.MouseEvent)
+comment1.text=\n\ Write\ code\ in\ mousePressed\n\ \n\ Other\ mouse\ methods\ you\ may\ wish\ to\ write\ can\n\ be\ found\ in\ the\ Java\ api\ for\ MouseListener\ and\n\ MouseMotionListener.\n
+comment2.params=e
+comment2.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment2.text=\n\ This\ method\ responds\ to\ key\ press\ events.\n\ Remember\ that\ the\ code\ can\ be\ used\ for\ odd\ keys\n\ like\ the\ arrows\ or\ the\ number\ pad.\n\ \n\ The\ key\ char\ can\ be\ used\ for\ letters\ and\ numbers\ and\n\ punctuation.\n\ \n\ This\ gives\ an\ example\ of\ comparing\ the\ key\ char\ to\ the\n\ keyboard\ 'j'\n
+numComments=3

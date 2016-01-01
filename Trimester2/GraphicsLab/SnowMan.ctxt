@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ init()
+comment1.params=x\ y\ size\ parts
+comment1.target=void\ drawSnowMan(double,\ double,\ double,\ int)
+comment1.text=\n\ Final\ Step\:\ \ Embellish\ the\ snowman\ in\ any\ way\ you\ wish\n\ just\ demonstrate\ usage\ of\ a\ GObject\!\ \ Check\ the\ API\ -\ how\ about\ a\ turtle?\n
+comment2.params=
+comment2.target=void\ drawThreeSnowmen()
+comment3.params=turtle\ leftToRight
+comment3.target=void\ plotCourse(acm.graphics.GTurtle,\ boolean)
+comment4.params=x\ y\ w\ h
+comment4.target=acm.graphics.GRect\ drawRect(double,\ double,\ double,\ double)
+comment5.params=x\ y\ w\ h
+comment5.target=acm.graphics.GOval\ drawOval(double,\ double,\ double,\ double)
+comment6.params=x\ y\ speed
+comment6.target=acm.graphics.GTurtle\ drawTurtle(double,\ double,\ double)
+numComments=7

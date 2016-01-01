@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ init()
+comment1.params=numDivs
+comment1.target=acm.graphics.GLabel\ makeLetterLabel(int)
+comment2.params=event
+comment2.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment3.params=
+comment3.target=void\ run()
+numComments=4
